@@ -27,7 +27,7 @@ python hwdump.py --target 192.168.1.0/24 --devices --offline --log
 python hwdump.py --start-ip 192.168.1.1 --end-ip 192.168.1.254 --devices --offline --log
 ```
 
-Opções Disponíveis:
+## Opções Disponíveis:
 
 --target <host ou rede>: Especifica o alvo (ex.: 192.168.1.0/24).
 
