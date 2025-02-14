@@ -1,3 +1,6 @@
+# Blacknet-Akasaka
+# Coded By Nous!
+
 import argparse 
 import requests
 import re
