@@ -7,11 +7,11 @@ O script permite acessar dados como IPs, endereços MAC e o nome da rede (SSID),
 
 ## Funcionalidades
 
-Realiza login em roteadores Huawei e outras marcas.
+- Realiza login em roteadores Huawei e outras marcas.
 
-Exibe informações de dispositivos conectados, incluindo IPs e MAC addresses.
+- Exibe informações de dispositivos conectados, incluindo IPs e MAC addresses.
 
-Recupera o nome da rede (SSID).
+- Recupera o nome da rede (SSID).
 
 ## Como Usar
 
