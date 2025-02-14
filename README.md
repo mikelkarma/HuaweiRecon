@@ -19,12 +19,12 @@ Exemplo de Uso:
 
 1. Para rodar o script, execute no terminal:
 ```
-python hwdump.py --target 192.168.1.0/24
+python hwdump.py --target 192.168.1.0/24 --devices --offline --log
 ```
 
 2. Ou, se preferir, use a opção de IP inicial e final:
 ```
-python hwdump.py --start-ip 192.168.1.1 --end-ip 192.168.1.254
+python hwdump.py --start-ip 192.168.1.1 --end-ip 192.168.1.254 --devices --offline --log
 ```
 
 Opções Disponíveis:
